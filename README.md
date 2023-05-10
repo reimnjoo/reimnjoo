@@ -5,4 +5,4 @@
   <img align="center" src="https://github.com/seoll27/seoll27/blob/main/rampo.gif">
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,nodejs,mysql,php,bootstrap,tailwind,discord,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mysql,php,bootstrap,tailwind)](https://skillicons.dev)
