@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aladiah</h1>
+<h1 align="center">Welcome to my codebase of operations!👋, I'm Aladiah</h1>
 <h3 align="center">A full-stack software engineer and currently a college student!</h3>
 
 <p align="center">
