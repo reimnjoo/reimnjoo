@@ -9,7 +9,7 @@
 <h4 align="center">💻 Tech Stack</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,native,nodejs,mysql,php,bootstrap,tailwind,sass">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mysql,php,bootstrap,tailwind,sass">
 </p>
 
 <hr>
