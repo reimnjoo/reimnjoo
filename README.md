@@ -19,7 +19,7 @@
 <h4 align="center">💻 Projects</h4>
 
 <ul align="center">
-  <li>Employee Management System</li>
+  <li><a href="#">IVT Employee Management System: A Minimum Viable Product Web System Project</a></li>
 </ul>
 
 
