@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aladiah</h1>
 <h3 align="center">A full-stack software engineer and currently a college student!</h3>
 
-<div>
+<p align="center">
   <img align="center" src="https://github.com/seoll27/seoll27/blob/main/rampo.gif">
-</div>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
