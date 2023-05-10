@@ -16,7 +16,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seoll27&theme=tokyonight&hide_border=false">
 </p>
 
-<br><br>
+<br>
 
 <h4 align="center">💻 Projects</h4>
 
