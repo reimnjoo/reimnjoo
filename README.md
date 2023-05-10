@@ -16,4 +16,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seoll27&theme=tokyonight&hide_border=false">
 </p>
 
+<h4 align="center">💻 Projects</h4>
+
+<ul>
+  <li>Employee Management System</li>
+</ul>
+
 
