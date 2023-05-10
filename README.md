@@ -11,6 +11,13 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mysql,php,bootstrap,tailwind,sass">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seoll27&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seoll27&theme=tokyonight&hide_border=false">
+</p>
+
+<br><br>
+
 <h4 align="center">💻 Projects</h4>
 
 <ul align="center">
@@ -21,9 +28,6 @@
   <li style="list-style-type: none"><a href="#">LeagueOfSolar: League of Legends Statistics Website (ON-GOING Project)</a></li>
 </ul>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seoll27&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seoll27&theme=tokyonight&hide_border=false">
-</p>
+
 
 
