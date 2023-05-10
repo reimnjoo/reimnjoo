@@ -1,5 +1,5 @@
 <h2 align="center">Welcome to my codebase of operations!</h2>
-<h3 align="center">A full-stack software engineer and currently a college student!</h3>
+<h4 align="center">I'm Aladiah, a full-stack software engineer and a college student!</h4>
 
 <p align="center">
   <img align="center" src="https://github.com/seoll27/seoll27/blob/main/rampo.gif">
