@@ -20,6 +20,8 @@
 
 <ul align="center">
   <li style="list-style-type: none"><a href="#">IVT Employee Management System: A Minimum Viable Product Web System Project</a></li>
+  <li style="list-style-type: none"><a href="https://tixclub.sseoll.com/">TixClub: Sports Ticket Reservation Website</a></li>
+  <li style="list-style-type: none"><a href="#">LitterApp: A United Nations SDG Mobile Application Project</a></li>
 </ul>
 
 
