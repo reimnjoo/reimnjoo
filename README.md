@@ -18,7 +18,7 @@
 
 <h4 align="center">💻 Projects</h4>
 
-<ul>
+<ul align="center">
   <li>Employee Management System</li>
 </ul>
 
