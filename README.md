@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aladiah</h1>
 <h3 align="center">A full-stack software engineer and currently a college student!</h3>
 
-<img align="center" href="https://github.com/seoll27/seoll27/blob/main/rampo.gif">
+<img href="https://github.com/seoll27/seoll27/blob/main/rampo.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/reimnjoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reimnjoo" height="30" width="40" /></a>
