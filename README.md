@@ -24,9 +24,9 @@
 <h4 align="center">💻 Projects</h4>
 
 <ul align="center">
-  <li style="list-style-type: none"><a href="https://sseoll.com/">My Personal Portfolio Site</a></li>
-  <li style="list-style-type: none"><a href="https://github.com/seoll27/LitterApp">LitterApp: Mobile Based Inventory Management System for Junkshops</a></li>
-  <li style="list-style-type: none"><a href="#">Invictus EMS: An Employee Management System Project in Project Management I</a></li>
+  <li style="list-style-type: none"><a href="https://sseoll.com/">Seol (My Personal Portfolio)</a></li>
+  <li style="list-style-type: none"><a href="https://github.com/seoll27/LitterApp">Litter: A Stock Management System for Scrapyards</a></li>
+  <li style="list-style-type: none"><a href="#">Invictus: An Employee Management System </a></li>
   <li style="list-style-type: none"><a href="https://tixclub.sseoll.com/">TixClub: Sports Ticket Reservation Website Project</a></li>
 </ul>
 
