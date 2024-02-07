@@ -1,4 +1,4 @@
-![Header](,/ampf_banner.png)
+![Header](ampf_banner.png)
 <hr></hr>
 
 ### 👨‍💻 I'm Aladiah Mehriel Fulminar
