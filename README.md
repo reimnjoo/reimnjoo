@@ -1,4 +1,4 @@
-## Welcome to my codebase of operations!
+## Welcome to my codebase of operations! 👨‍💻
 <hr></hr>
 
 ![Header](ampf_banner.png)
@@ -12,6 +12,8 @@
 - 💬 Ask me about JavaScript and my projects on [aladiahfulminar1@gmail.com](mailto:aladiahfulminar1@gmail.com)
 - 🔭 All of my open source projects can be seen on [https://sseoll.com](https://sseoll.com)
 - ⚡ Fun fact **I love gaming and foreign cultures (Currently learning other Asian cultures as an Asian)**
+
+<hr></hr>
 
 ### 🛠 Technology and Tools Stack
 
@@ -29,10 +31,15 @@
 - 🔧 &#160; ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+<hr></hr>
+
 ### 🌐 My Open Source Projects
 - [Pre-Capstone Project - Litter: Mobile-based Inventory Management System for Scrapyards using React Native and Expo](https://github.com/reimnjoo/litterapp)
 - [Capstone Project - ASAN: Mobile-based Warehouse Management System w/ Communication Subsystem for Scrapyards in the Philippines](https://github.com/reiuu23/litter) 🛠 Currently Developing - link might be inavailable at the moment.
 - [My Portfolio](https://github.com/reimnjoo/reimjoo-portfolio/) 🛠 Currently Developing - link might be inavailable at the moment.
 
+<br></br>
+
 > ***I'd love to have new friends, my inbox are always open (let's grab a coffee!)🤝⭐️***
 
+<hr></hr>
