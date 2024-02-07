@@ -4,7 +4,7 @@
 ![Header](ampf_banner.png)
 <hr></hr>
 
-### 👨‍💻 I'm Aladiah Mehriel Fulminar
+### 👨‍💻 I'm a full-stack web and mobile developer college undergraduate seeking internships!
 
 - 👨‍💻 I’m currently working on [(Capstone) ASAN: Warehouse Management System](https://github.com/reiuu23/litter)
 - 🌱 I’m currently learning **Java, Spring, and Spring Boot**
