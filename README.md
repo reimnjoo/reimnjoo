@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=I'm%16Aladiah%16A%16Full%16Stack%16Developer&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=I'm%16Aladiah%16A%16Full%16Stack%16&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <hr></hr>
 
 ### 👨‍💻 I'm Aladiah Mehriel Fulminar
