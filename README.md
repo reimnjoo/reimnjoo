@@ -36,7 +36,7 @@
 ### 🌐 My Open Source Projects
 - [Pre-Capstone Project - Litter: Mobile-based Inventory Management System for Scrapyards using React Native and Expo](https://github.com/reimnjoo/litterapp)
 - [Capstone Project - ASAN: Mobile-based Warehouse Management System w/ Communication Subsystem for Scrapyards in the Philippines](https://github.com/reiuu23/litter) 🛠 Currently Developing - link might be inavailable at the moment.
-- [My Portfolio](https://github.com/reimnjoo/reimjoo-portfolio/) 🛠 Currently Developing - link might be inavailable at the moment.
+- [My Portfolio](https://github.com/reimnjoo/reimjoo-portfolio/) 🛠 Currently Migrating to Github Pages - link might be inavailable at the moment.
 
 <br></br>
 
