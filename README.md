@@ -40,6 +40,6 @@
 
 <br></br>
 
-> ***I'd love to have new friends, my inbox are always open (let's grab a coffee!)🤝⭐️***
+> ***I'd love to have new friends, my inbox are always open (let's grab a coffee!, meow)🤝⭐️***
 
 <hr></hr>
