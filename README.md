@@ -25,8 +25,6 @@
 
 <hr></hr>
 
-<br></br>
-
-> ***I'd love to have new friends, my inbox are always open (let's grab a coffee!, meow)🤝⭐️***
+> ***I'd love to have new friends, my inbox are always open (let's grab a coffee!)🤝⭐️***
 
 <hr></hr>
