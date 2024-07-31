@@ -4,14 +4,7 @@
 ![Header](ampf_banner.png)
 <hr></hr>
 
-### 👨‍💻 I'm a full-stack web and mobile developer college undergraduate, seeking internships!
-
-- 👨‍💻 I’m currently working on [(Capstone) ASAN: Warehouse Management System](https://github.com/reiuu23/litter)
-- 🌱 I’m currently learning **Java, Spring, and Spring Boot**
-- 🤝 I’m currently seeking an **internship**
-- 💬 Ask me about JavaScript and my projects on [aladiahfulminar1@gmail.com](mailto:aladiahfulminar1@gmail.com)
-- 🔭 All of my open source projects can be seen on [https://sseoll.com](https://sseoll.com)
-- ⚡ Fun fact **I love gaming and foreign cultures (Currently learning other Asian cultures as an Asian)**
+### 👨‍💻 I'm a full-stack developer with an experience in web and mobile development.
 
 <hr></hr>
 
